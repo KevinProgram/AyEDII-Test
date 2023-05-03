@@ -1,7 +1,11 @@
 // Git &amp; GitHub in C++ Program
 #include <iostream>
 
-int main() {
-std::cout << "Hello World";
-return 0;
+using namespace std;
+
+int main()
+{
+    cout << "Hello World";
+    //Hola Programadores :)
+    return 0;
 }
